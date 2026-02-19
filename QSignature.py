@@ -1,6 +1,6 @@
 """
 QSignature: Clean, organized causal persistence timescale estimators.
-Version: 1.0.
+Version: 1.0.   (MIT license)
 """
 
 import numpy as np
